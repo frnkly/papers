@@ -1,6 +1,6 @@
 # Mechanisms of Introspective Awareness — behavioral replication at 4B scale
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frnkly/papers/blob/main/introspection/introspection_replication.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frnkly/papers/blob/main/notebooks/introspection/introspection_replication.ipynb)
 
 A budget-friendly, Colab-compatible replication of the **core behavioral finding** of:
 
